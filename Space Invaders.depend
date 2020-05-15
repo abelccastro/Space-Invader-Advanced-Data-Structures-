@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1343250945 source:c:\users\david\desktop\space invaders\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space invaders\inicia.h
+
+1370108260 source:c:\users\david\desktop\space invaders\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"disparos.h"
+
+1370109028 c:\users\david\desktop\space invaders\disparos.h
+	<allegro.h>
+
+1370109016 source:c:\users\david\desktop\space invaders\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1343250945 source:c:\users\david\desktop\space youtube\1 explicacion\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space youtube\1 explicacion\inicia.h
+
+1370109016 source:c:\users\david\desktop\space youtube\1 explicacion\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1370109028 c:\users\david\desktop\space youtube\1 explicacion\disparos.h
+	<allegro.h>
+
+1343250945 source:c:\users\frank\documents\codeblock\1 space invaders\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\frank\documents\codeblock\1 space invaders\inicia.h
+
+1416874727 source:c:\users\frank\documents\codeblock\1 space invaders\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+	"inicia.h"
+	"disparos.h"
+	"personajes.h"
+	"diseno.h"
+	<iostream>
+
+1416840204 c:\users\frank\documents\codeblock\1 space invaders\disparos.h
+	<allegro.h>
+	"personajes.h"
+
+1416871768 source:c:\users\frank\documents\codeblock\1 space invaders\disparos.cpp
+	"disparos.h"
+	"personajes.h"
+	<allegro.h>
+	<iostream>
+
+1416864550 c:\users\frank\documents\codeblock\1 space invaders\personajes.h
+	<allegro.h>
+
+1416866962 source:c:\users\frank\documents\codeblock\1 space invaders\personajes.cpp
+	"personajes.h"
+	"disparos.h"
+	"diseno.h"
+	<allegro.h>
+
+1416870584 source:c:\users\frank\documents\codeblock\1 space invaders\diseno.cpp
+	"diseno.h"
+	<allegro.h>
+
+1416870585 c:\users\frank\documents\codeblock\1 space invaders\diseno.h
+	<allegro.h>
+
